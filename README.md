@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" alt="Damn i love gura" src="Gura.png" width="50%" height="auto" /> 
+<img align="right" alt="Damn i love gura" src="Gura.webp" width="50%" height="auto" /> 
 
 
 #### 🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
