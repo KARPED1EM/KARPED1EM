@@ -28,9 +28,4 @@
 <a href="https://space.bilibili.com/312252452" target="_blank"><img src="https://img.shields.io/badge/Bilibili%20-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white&color=fb7299"/></a>
 <a href="https://npm.elemecdn.com/hexo-static@latest/img/QQ.png" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=qq&logoColor=white&color=1e6fff"/></a>
 <a href="https://npm.elemecdn.com/hexo-static@latest/img/Wechat.png" target="_blank"><img src="https://img.shields.io/badge/Wechat%20-%231DA1F2.svg?&style=for-the-badge&logo=wechat&logoColor=white&color=08c160"/></a>
-<a href="https://steamcommunity.com/id/KARPED1EM" target="_blank"><img src="https://img.shields.io/badge/Steam%20-%231DA1F2.svg?&style=for-the-badge&logo=steam&logoColor=white&color=0c2050"/></a>
 </p>
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARPED1EM&show_icons=true&theme=radical&custom_title=Keep+Passion+In+Tech&border_radius=18)
