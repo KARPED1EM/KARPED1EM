@@ -30,7 +30,6 @@
 
 <br>
 <br>
-<br>
 
 <img align="center" alt="xoxox" src="GIF.gif" width="12%" height="auto" />
 
