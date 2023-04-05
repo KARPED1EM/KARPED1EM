@@ -16,8 +16,7 @@
 <br>
 
 #### 🤣 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮
-> 就凭我这个水平在技术圈嗷，硬是挤两个Badge在这里整的我自己尴尬。
-> 总之，保持着对技术的热爱总不会错。
+> For a beginner like me, it's a shame to put only a little badge here. any way, it never wrong keep passion in tech
 
 <br>
 
