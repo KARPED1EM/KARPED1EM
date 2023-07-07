@@ -25,8 +25,8 @@
 <p align="center">
 <a href="mailto:leever.zzz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail%20-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335"/></a>
 <a href="https://space.bilibili.com/312252452" target="_blank"><img src="https://img.shields.io/badge/Bilibili%20-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white&color=fb7299"/></a>
-<a href="https://npm.elemecdn.com/hexo-static@latest/img/QQ.png" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Tencent+QQ&logoColor=white&color=1e6fff"/></a>
-<a href="https://npm.elemecdn.com/hexo-static@latest/img/Wechat.png" target="_blank"><img src="https://img.shields.io/badge/Wechat%20-%231DA1F2.svg?&style=for-the-badge&logo=wechat&logoColor=white&color=08c160"/></a>
+<a href="https://npm.elemecdn.com/kpd-hexo-static@latest/img/QQ.webp" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Tencent+QQ&logoColor=white&color=1e6fff"/></a>
+<a href="https://npm.elemecdn.com/kpd-hexo-static@latest/img/Wechat.webp" target="_blank"><img src="https://img.shields.io/badge/Wechat%20-%231DA1F2.svg?&style=for-the-badge&logo=wechat&logoColor=white&color=08c160"/></a>
 
 <br>
 <br>
