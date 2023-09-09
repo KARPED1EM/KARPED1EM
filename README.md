@@ -16,7 +16,7 @@
 <br>
 
 #### 🤣 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮
-> For a beginner like me, it's a shame to put only a little badge here. any way, it never wrong keep passion in tech
+> For a beginner like me, it's a shame to put only a little badge here. any way, it never wrong keep passion in computer
 
 <br>
 
