@@ -8,7 +8,6 @@
 
 #### 🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
 - <b>Name:</b> Leever / KPD
-- <b>Age:</b> 18 (high school)
 - <b>Fursona:</b> Sharky (?)
 - <b>Loves:</b> anime, rhythm games
 - <b>Yume:</b> be a god of a world like ['Sword Art Online'](https://en.wikipedia.org/wiki/Sword_Art_Online)
