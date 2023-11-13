@@ -10,15 +10,12 @@
 <img align="right" alt="Damn i love gura" src="Gura.webp" width="50%" height="auto" /> 
 
 #### 🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
-- <b>Name:</b> Leever / KPD
-- <b>Fursona:</b> Sharky (?)
-- <b>Loves:</b> anime, rhythm games
-- <b>Yume:</b> be a god of a world like ['Sword Art Online'](https://en.wikipedia.org/wiki/Sword_Art_Online)
-
-<br>
-
-#### 🤣 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮
-> For a beginner like me, it's a shame to put only a little badge here. any way, it never wrong keep passion in computer
+- 💖 请叫我 <b>Leever</b> 或者 <b>KPD</b>
+- 🍻 不喝可乐会死
+- 🦈 小鲨鱼真的卡哇伊
+- ✨ 写代码是热爱
+- 🌸 请带我去二次元
+- 🗽 自由/民主/和平
 
 <br>
 
