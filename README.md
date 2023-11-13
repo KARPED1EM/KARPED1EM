@@ -1,7 +1,7 @@
 
 <h1 align="center">~ 💖 𝓗𝓮𝔂 𝓵𝓱𝓮𝓻𝓮 💖 ~</h1>
 
-<br>
+<br/>
 
 <p align="center">
  <img src="https://github-widgetbox.vercel.app/api/profile?username=KARPED1EM&data=followers,repositories,stars,commits" align="center" alt="Stats" />
@@ -9,17 +9,21 @@
 
 <img align="right" alt="Damn i love gura" src="Gura.webp" width="50%" height="auto" /> 
 
-#### 🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
-- 💖 请叫我 <b>Leever</b> 或者 <b>KPD</b>
-- 🍻 不喝可乐会死
-- 🦈 小鲨鱼真的卡哇伊
-- ✨ 写代码是热爱
-- 🌸 请带我去二次元
-- 🗽 自由/民主/和平
+<br/>
 
-<br>
+<h2 align="center">🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮</h2>
+ <ul align="center">
+<li>💖 请叫我 <b>Leever</b> 或者 <b>KPD</b></li>
+<li>🍻 不喝可乐会死</li>
+<li>🦈 小鲨鱼真的卡哇伊</li>
+<li>✨ 写代码是热爱</li>
+<li>🌸 请带我去二次元</li>
+<li>🗽 自由/民主/和平</li>
+ </ul>
 
-#### 💕 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮
+<br/>
+
+<h2 align="center">💕 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮</h2>
 
 <p align="center">
 <a href="mailto:leever.zzz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail%20-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335"/></a>
