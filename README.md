@@ -7,7 +7,7 @@
 
 
 <p align="center">
- <img src="https://github-widgetbox.vercel.app/api/profile?username=JDDKCN&data=followers,repositories,stars,commits" align="center" alt="Stats" />
+ <img src="https://github-widgetbox.vercel.app/api/profile?username=KARPED1EM&data=followers,repositories,stars,commits" align="center" alt="Stats" />
 </p>
 
 #### 🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
