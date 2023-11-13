@@ -13,7 +13,7 @@
 
 <h2 align="center">🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮</h2>
  <ul align="center">
-<li>💖 请叫我 <b>Leever</b> 或者 <b>KPD</b></li>
+<li>💖 叫我 <b>Leever</b> 或 <b>KPD</b></li>
 <li>🍻 不喝可乐会死</li>
 <li>🦈 小鲨鱼真的卡哇伊</li>
 <li>✨ 写代码是热爱</li>
