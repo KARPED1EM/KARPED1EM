@@ -3,12 +3,11 @@
 
 <br>
 
-<img align="right" alt="Damn i love gura" src="Gura.webp" width="50%" height="auto" /> 
-
-
 <p align="center">
  <img src="https://github-widgetbox.vercel.app/api/profile?username=KARPED1EM&data=followers,repositories,stars,commits" align="center" alt="Stats" />
 </p>
+
+<img align="right" alt="Damn i love gura" src="Gura.webp" width="50%" height="auto" /> 
 
 #### 🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
 - <b>Name:</b> Leever / KPD
