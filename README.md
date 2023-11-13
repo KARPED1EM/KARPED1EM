@@ -6,6 +6,10 @@
 <img align="right" alt="Damn i love gura" src="Gura.webp" width="50%" height="auto" /> 
 
 
+<p align="center">
+ <img src="https://github-widgetbox.vercel.app/api/profile?username=JDDKCN&data=followers,repositories,stars,commits" align="center" alt="Stats" />
+</p>
+
 #### 🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
 - <b>Name:</b> Leever / KPD
 - <b>Fursona:</b> Sharky (?)
