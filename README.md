@@ -9,8 +9,6 @@
 
 <img align="right" alt="Damn i love gura" src="Gura.webp" width="50%" height="auto" /> 
 
-</br>
-
 <div align="center">
  
  <h2>🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🌱</h2>
@@ -20,9 +18,9 @@
  <p>✨ 写代码是热爱</p>
  <p>🌸 请带我去二次元</p>
  <p>🗽 自由/平等/和平</p>
- 
+
  </br>
- 
+
  <h2 align="center">💕 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 💕</h2>
  <a href="mailto:leever.zzz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail%20-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335"/></a>
  <a href="https://space.bilibili.com/312252452" target="_blank"><img src="https://img.shields.io/badge/Bilibili%20-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white&color=fb7299"/></a>
