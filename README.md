@@ -13,10 +13,10 @@
  
  <hr/><h3>🌱 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🌱</h3>
  <p>💖 叫我<b>Leever</b>或<b>KPD</b></p>
- <p>🥤 不喝可乐会死</p>
- <p>🦈 小鲨鱼真的卡哇伊</p>
- <p>✨ 写代码是热爱</p>
  <p>🗽 自由/平等/和平</p>
+ <p>✨ 写代码是热爱</p>
+ <p>🦈 小鲨鱼真的卡哇伊</p>
+ <p>🥤 不喝可乐会死</p>
 
  <hr/><h3 align="center">💕 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 💕</h3>
  <a href="mailto:leever.zzz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail%20-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335"/></a>
