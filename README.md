@@ -19,8 +19,8 @@
  <p>🥤 不喝可乐会死</p>
 
  <hr/><h3 align="center">💕 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 💕</h3>
- <a href="mailto:leever.zzz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail%20-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335"/></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/karped1em%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865f2"/></a>
+ <a href="mailto:leever.zzz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail%20-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335"/></a>
  <a href="https://npm.elemecdn.com/kpd-hexo-static@latest/img/Wechat.webp" target="_blank"><img src="https://img.shields.io/badge/Wechat%20-%231DA1F2.svg?&style=for-the-badge&logo=wechat&logoColor=white&color=08c160"/></a>
  <a href="https://npm.elemecdn.com/kpd-hexo-static@latest/img/QQ.webp" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=QQ&logoColor=white&color=1e6fff"/></a>
  
