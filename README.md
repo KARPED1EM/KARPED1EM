@@ -13,8 +13,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail%20-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:leever.zzz@gmail.com)
 [![WeChat](https://img.shields.io/badge/Wechat%20-%231DA1F2.svg?&style=for-the-badge&logo=wechat&logoColor=white&color=08c160)](https://npm.elemecdn.com/kpd-hexo-static@latest/img/Wechat.webp)
 [![QQ](https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=QQ&logoColor=white&color=1e6fff)](https://npm.elemecdn.com/kpd-hexo-static@latest/img/QQ.webp)
+[![Visitor Counter](https://komarev.com/ghpvc/?username=karped1em&style=for-the-badge&color=ff69b4&label=PV&abbreviated=true)](#)
 
 </div>
+
 
 
 
